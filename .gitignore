@@ -1,7 +1,4 @@
 
----
-
-# 🚫 .gitignore (copy-paste ready)
 
 ```gitignore
 # Python cache
@@ -22,10 +19,6 @@ env/
 # OS files
 .DS_Store
 Thumbs.db
-
-# Model files (optional if you don't want to push)
-*.joblib
-*.pkl
 
 # Logs
 *.log

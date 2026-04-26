@@ -1,0 +1,34 @@
+
+---
+
+# 🚫 .gitignore (copy-paste ready)
+
+```gitignore
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model files (optional if you don't want to push)
+*.joblib
+*.pkl
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
